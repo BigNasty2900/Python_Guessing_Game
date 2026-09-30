@@ -2,6 +2,10 @@
 
 A desktop number guessing game built with Python and Tkinter
 
+## Screenshot
+
+![Python Guess Game](game-screenshot.png)
+
 ## Features
 
 - Random number generation
